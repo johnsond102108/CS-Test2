@@ -6,19 +6,17 @@ namespace PA1._1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Program p = new Program();
-            p.sayGoodbye();
-            Cat c = new Cat();
-            Cat j = new Cat("Philbert");
-            c.printCat();
-            j.printCat();
-            Console.ReadKey();
-        }
+            Console.WriteLine("I am thinking of a number between 0 and 100.");
+            Random rd = new Random();
+            int numRoll = rd.Next(0, 100);
 
-        void sayGoodbye()
-        {
-            Console.WriteLine("Goodbye world!");
+            int numGuess;
+            int lives = 5;
+            while (lives != 0)
+            {
+                Console.WriteLine("Please guess a number.");
+                
+            }
         }
     }
 }
