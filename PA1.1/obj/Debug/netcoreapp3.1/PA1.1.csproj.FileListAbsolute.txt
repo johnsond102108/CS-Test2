@@ -12,3 +12,17 @@ C:\Users\davbjohn\source\repos\PA1.1\PA1.1\obj\Debug\netcoreapp3.1\PA1.1.csproj.
 C:\Users\davbjohn\source\repos\PA1.1\PA1.1\obj\Debug\netcoreapp3.1\PA1.1.dll
 C:\Users\davbjohn\source\repos\PA1.1\PA1.1\obj\Debug\netcoreapp3.1\PA1.1.pdb
 C:\Users\davbjohn\source\repos\PA1.1\PA1.1\obj\Debug\netcoreapp3.1\PA1.1.genruntimeconfig.cache
+C:\Users\pegr5\Source\Repos\CS-Test2\PA1.1\bin\Debug\netcoreapp3.1\PA1.1.exe
+C:\Users\pegr5\Source\Repos\CS-Test2\PA1.1\bin\Debug\netcoreapp3.1\PA1.1.deps.json
+C:\Users\pegr5\Source\Repos\CS-Test2\PA1.1\bin\Debug\netcoreapp3.1\PA1.1.runtimeconfig.json
+C:\Users\pegr5\Source\Repos\CS-Test2\PA1.1\bin\Debug\netcoreapp3.1\PA1.1.runtimeconfig.dev.json
+C:\Users\pegr5\Source\Repos\CS-Test2\PA1.1\bin\Debug\netcoreapp3.1\PA1.1.dll
+C:\Users\pegr5\Source\Repos\CS-Test2\PA1.1\bin\Debug\netcoreapp3.1\PA1.1.pdb
+C:\Users\pegr5\Source\Repos\CS-Test2\PA1.1\obj\Debug\netcoreapp3.1\PA1.1.csproj.AssemblyReference.cache
+C:\Users\pegr5\Source\Repos\CS-Test2\PA1.1\obj\Debug\netcoreapp3.1\PA1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pegr5\Source\Repos\CS-Test2\PA1.1\obj\Debug\netcoreapp3.1\PA1.1.AssemblyInfoInputs.cache
+C:\Users\pegr5\Source\Repos\CS-Test2\PA1.1\obj\Debug\netcoreapp3.1\PA1.1.AssemblyInfo.cs
+C:\Users\pegr5\Source\Repos\CS-Test2\PA1.1\obj\Debug\netcoreapp3.1\PA1.1.csproj.CoreCompileInputs.cache
+C:\Users\pegr5\Source\Repos\CS-Test2\PA1.1\obj\Debug\netcoreapp3.1\PA1.1.dll
+C:\Users\pegr5\Source\Repos\CS-Test2\PA1.1\obj\Debug\netcoreapp3.1\PA1.1.pdb
+C:\Users\pegr5\Source\Repos\CS-Test2\PA1.1\obj\Debug\netcoreapp3.1\PA1.1.genruntimeconfig.cache

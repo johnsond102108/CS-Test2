@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "yZvBdY/VZr7oxxOR84tWhhjYdyc6RSE/CcDX8m0i25cLUy4zleb9FoF+QBrf4CHTeFyNz4EKelJ4SMJoLHFxgg==",
+  "dgSpecHash": "8jpPJ3YiRHEt7uUXsDGtc79AWDrPd6VnzjfbbMJgIi7B7Lgu0gr6O+zTJ/SFrVv10TUohKSuovY++/99HA2d4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\davbjohn\\source\\repos\\PA1.1\\PA1.1\\PA1.1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\pegr5\\Source\\Repos\\CS-Test2\\PA1.1\\PA1.1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pegr5\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\pegr5\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\pegr5\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\pegr5\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -6,9 +6,15 @@ namespace PA1._1
     {
         static int Main(string[] args)
         {
-            Console.WriteLine("You have 5 attempts. Number's between 0 and 100.");
+            Console.WriteLine("Please enter a minimum number.");
+            int minNum = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Please enter a maximum number.");
+            int maxNum = Convert.ToInt32(Console.ReadLine());
+            maxNum = maxNum + 1;
+
+            Console.WriteLine("You have 5 attempts. Number's between " + minNum + " and " + (maxNum - 1) + '.');
             Random rd = new Random();
-            int numRoll = rd.Next(0, 101);
+            int numRoll = rd.Next(minNum, maxNum);
 
             int numGuess;
             int lives = 5;
@@ -19,7 +25,7 @@ namespace PA1._1
                 
                 if (numGuess == numRoll)
                 {
-                    Console.WriteLine("You had " + lives + "attempts remaining. Put in a little effort next time, yeah?");
+                    Console.WriteLine("You had " + lives + " attempts remaining. Put in a little effort next time, yeah?");
                     break;
                 }
                 else if(lives > 1)
